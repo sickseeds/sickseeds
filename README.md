@@ -9,7 +9,7 @@
   <br><br>
   <img src="https://file.garden/Zpt04KL0r1V-kQd1/_%20kins%20n%20ids/lain/tumblr_67401aa96d457e30c8dbe4599a2b1efd_5097d724_75.webp" /> <sub>12 × AMD Ryzen 5 3600 6-Core Processor | 16 GiB of RAM + 1TB SSD | NVIDIA GeForce GTX 1660 SUPER</sub>
   <br><br>
-  <img src="https://file.garden/Zpt04KL0r1V-kQd1/_%20kins%20n%20ids/lain/tumblr_40c12fa1457c49abe4ee63418f862dc5_0b901ce5_75.webp" /> <sub>HTML | CSS | Json | Python | Bootstrap 4+5 | Rust </sub>
+  <img src="https://file.garden/Zpt04KL0r1V-kQd1/_%20kins%20n%20ids/lain/tumblr_40c12fa1457c49abe4ee63418f862dc5_0b901ce5_75.webp" /> <sub>HTML | CSS | JSON | Python | Bootstrap 4+5 | Rust </sub>
 </div>
 <img src="https://file.garden/Zpt04KL0r1V-kQd1/_%20kins%20n%20ids/lain/tumblr_c34382b21726873c6b8cf3d54cc4555c_54496e9b_250.webp" />
 <div align="center">
