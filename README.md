@@ -39,4 +39,7 @@
 	<code><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" title="Unity"/></code>
 	<code><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rpg_maker.png" alt="RPG Maker" title="RPG Maker"/></code>
 </div>
+	<sub>If you need to reach me: <a href="mailto:lacepom@pm.me">lacepom@pm.me</a></sub>
+	<br>
+	<sub> Fluxer: (ask to add me) || Matrix: @sickseeds:matrix.org || I also have: Signal, Telegram and Gajim.</sub>
 </div>
